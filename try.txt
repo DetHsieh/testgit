@@ -2,6 +2,8 @@ try
 中文
 GOGO PowerRanger~~~
 
-接下來會不會有衝突哩
+有衝突，所以再補充一下文字說明
 
-test sth in master
+test sth in master # from master
+
+test in test branch # from test
